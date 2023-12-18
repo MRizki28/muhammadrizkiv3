@@ -24,7 +24,7 @@ const Hero = () => {
                     <span className="mr-14">Junior Software Developer</span>
                 </div>
                 <div className="mb-3 font-light">
-                    <span className="ml-2 text-center sm:text-left mb-0">Use 80% php language repo on GitHub</span>
+                    <span className="ml-2 text-center sm:text-left mb-0">Open Source Project feature on GitHub</span>
                 </div>
                 <div className="mb-3 font-light text-gray-500 flex flex-row items-center">
                     <svg stroke="currentColor" fill="none" strokeWidth="2" viewBox="0 0 24 24" strokeLinecap="round" strokeLinejoin="round" className="mr-1 w-4 h-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
